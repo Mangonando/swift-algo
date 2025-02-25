@@ -41,7 +41,7 @@
 		AAC9E9422D6E18BE00697E1A = {
 			isa = PBXGroup;
 			children = (
-				AAC9E94D2D6E18BE00697E1A /* SwiftAlgo */,
+				AAC9E94E2D6E18BE00697E1A /* romanToNumber.swift */,
 				AAC9E94C2D6E18BE00697E1A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +52,6 @@
 				AAC9E94B2D6E18BE00697E1A /* SwiftAlgo */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		AAC9E94D2D6E18BE00697E1A /* SwiftAlgo */ = {
-			isa = PBXGroup;
-			children = (
-				AAC9E94E2D6E18BE00697E1A /* romanToNumber.swift */,
-			);
-			path = SwiftAlgo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
