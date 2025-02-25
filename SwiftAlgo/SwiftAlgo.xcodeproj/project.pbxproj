@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AAC9E94F2D6E18BE00697E1A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC9E94E2D6E18BE00697E1A /* main.swift */; };
+		AAC9E94F2D6E18BE00697E1A /* romanToNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC9E94E2D6E18BE00697E1A /* romanToNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		AAC9E94B2D6E18BE00697E1A /* SwiftAlgo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgo; sourceTree = BUILT_PRODUCTS_DIR; };
-		AAC9E94E2D6E18BE00697E1A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AAC9E94E2D6E18BE00697E1A /* romanToNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = romanToNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		AAC9E94D2D6E18BE00697E1A /* SwiftAlgo */ = {
 			isa = PBXGroup;
 			children = (
-				AAC9E94E2D6E18BE00697E1A /* main.swift */,
+				AAC9E94E2D6E18BE00697E1A /* romanToNumber.swift */,
 			);
 			path = SwiftAlgo;
 			sourceTree = "<group>";
@@ -120,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AAC9E94F2D6E18BE00697E1A /* main.swift in Sources */,
+				AAC9E94F2D6E18BE00697E1A /* romanToNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
